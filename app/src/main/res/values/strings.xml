@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MultiActivityApp</string>
+    <string name="activity_a_text">Activity A</string>
+    <string name="activity_b_text">Activity B</string>
+    <string name="activity_c_text">Activity C</string>
+</resources>
